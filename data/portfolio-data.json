@@ -1,0 +1,342 @@
+{
+  "profile": {
+    "name": "Adithyan",
+    "title": "AI & Data Science Student",
+    "subtitle": "Aspiring AI/ML Engineer",
+    "degree": "B.Tech – Artificial Intelligence and Data Science",
+    "college": "Sri Eshwar College of Engineering",
+    "academicYear": "First Year",
+    "age": 18,
+    "location": "Pollachi, Coimbatore, Tamil Nadu, India",
+    "tagline": "Code. Create. Innovate. Repeat.",
+    "bio": "I am a first-year Artificial Intelligence and Data Science undergraduate at Sri Eshwar College of Engineering, passionate about building robust software foundations and diving deep into machine learning architectures. Currently honing my problem-solving skills in C++ and Python, exploring neural networks, and actively building collaborative prototypes at hackathons.",
+    "avatarUrl": "",
+    "resumeUrl": "",
+    "resumeAvailable": false,
+    "showPhonePublicly": true,
+    "phone": "+91 9659007117",
+    "email": "adithyanadhi2998@gmail.com",
+    "socials": {
+      "github": "https://github.com/Adithyan49",
+      "linkedin": "https://www.linkedin.com/in/adithyan-r-7420bb419/",
+      "instagram": "https://www.instagram.com/aadhi49.exe/",
+      "whatsapp": "https://wa.me/919659007117?text=Hi%20Adithyan%2C%20I%20saw%20your%20portfolio%20and%20would%20love%20to%20connect!",
+      "leetcode": "https://leetcode.com/u/adithyan_adhi/",
+      "hackerrank": "https://www.hackerrank.com/profile/adithyan_r2026a1",
+      "codechef": "https://www.codechef.com/users/plush_plume_54",
+      "unstop": "https://unstop.com/u/adithyan70944",
+      "kaggle": "https://www.kaggle.com/adithyanraids",
+      "geeksforgeeks": "https://www.geeksforgeeks.org/profile/adithyanr2pr2"
+    }
+  },
+  "skills": [
+    {
+      "id": "cpp",
+      "name": "C++",
+      "category": "Programming Languages",
+      "level": 75,
+      "description": "Object-oriented programming, data structures, algorithm problem-solving, and system fundamentals.",
+      "status": "core"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "category": "Programming Languages",
+      "level": 80,
+      "description": "Scripting, algorithmic thinking, data manipulation, automation, and foundational ML experimentation.",
+      "status": "core"
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "category": "Web Development",
+      "level": 70,
+      "description": "Modern ES6+, DOM manipulation, asynchronous programming, interactive web mechanics.",
+      "status": "core"
+    },
+    {
+      "id": "html_css",
+      "name": "HTML5 & CSS3",
+      "category": "Web Development",
+      "level": 85,
+      "description": "Semantic markup, modern flexbox/grid architectures, responsive mobile layouts, Tailwind CSS styling.",
+      "status": "core"
+    },
+    {
+      "id": "learning_aiml",
+      "name": "Artificial Intelligence & ML",
+      "category": "Currently Learning",
+      "level": 55,
+      "description": "Supervised/unsupervised learning fundamentals, NumPy, Pandas, linear algebra for ML, neural networks.",
+      "status": "learning"
+    },
+    {
+      "id": "learning_cpp_adv",
+      "name": "Advanced C++ & STL",
+      "category": "Currently Learning",
+      "level": 65,
+      "description": "Standard Template Library, pointer semantics, competitive programming problem patterns.",
+      "status": "learning"
+    },
+    {
+      "id": "learning_webdev",
+      "name": "Modern Full-Stack Web",
+      "category": "Currently Learning",
+      "level": 60,
+      "description": "React component state, RESTful API design, server architecture, Three.js 3D rendering.",
+      "status": "learning"
+    }
+  ],
+  "projects": [
+    {
+      "id": "agrisaarthi-ai",
+      "title": "AgriSaarthi AI",
+      "category": "AI/ML",
+      "status": "In Development",
+      "shortDescription": "An AI-powered agricultural assistant designed to help farmers make better farming decisions.",
+      "detailedDescription": "AgriSaarthi AI is conceptualized to support agricultural communities through intelligent decision making. It evaluates critical farming parameters including crop selection compatibility, localized soil qualities, seasonal weather predictions, irrigation schedules, and agricultural risk mitigations. Built with an intuitive multilingual architecture to bridge technology accessibility for everyday farming operations.",
+      "technologies": ["Python", "Machine Learning", "Agricultural Data APIs", "FastAPI", "React"],
+      "githubUrl": "",
+      "liveDemoUrl": "",
+      "completionDate": "2026",
+      "featured": true,
+      "icon": "Sprout",
+      "highlights": [
+        "Crop suitability recommendations based on soil N-P-K & moisture indicators",
+        "Weather-aware irrigation scheduling algorithms",
+        "Pest & disease early risk assessment workflows",
+        "Voice & regional language interaction concept"
+      ]
+    },
+    {
+      "id": "qshield",
+      "title": "QShield",
+      "category": "Cybersecurity",
+      "status": "Prototype / Research",
+      "shortDescription": "A quantum-inspired cybersecurity and digital-signature verification application.",
+      "detailedDescription": "QShield is an experimental cybersecurity prototype exploring post-quantum signature schemes and digital identity security. It simulates real-world threat vectors including message forgery, credential impersonation, replay attacks, and channel man-in-the-middle manipulation. Note: This is an analytical and cryptographic exploration tool designed to model threat defenses, not a production trained AI/ML system.",
+      "technologies": ["C++", "Python", "Cryptographic Primitives", "Network Security Protocols"],
+      "githubUrl": "",
+      "liveDemoUrl": "",
+      "completionDate": "2026",
+      "featured": true,
+      "icon": "ShieldAlert",
+      "highlights": [
+        "Simulation of replay attacks and cryptographic hash verification",
+        "Digital signature integrity audit against tampering vectors",
+        "Channel state validation against eavesdropping models",
+        "Educational attack surface visualizer"
+      ]
+    },
+    {
+      "id": "smart-blind-stick",
+      "title": "Smart Blind Stick",
+      "category": "Hardware",
+      "status": "Working Prototype",
+      "shortDescription": "Arduino-based assistive navigation stick with ultrasonic obstacle detection and acoustic alerts.",
+      "detailedDescription": "An assistive hardware prototype designed to enhance spatial mobility and safety for visually impaired individuals. Utilizes an Arduino microcontroller paired with ultrasonic distance sensors to continuously map frontal hazards within a 2-meter proximity cone, triggering progressive buzzer frequencies to warn the user of obstacles, steps, or elevation changes.",
+      "technologies": ["Arduino", "Embedded C++", "Ultrasonic Sensors", "Piezo Buzzer", "Circuit Design"],
+      "githubUrl": "",
+      "liveDemoUrl": "",
+      "completionDate": "2025",
+      "featured": true,
+      "icon": "Cpu",
+      "highlights": [
+        "Rapid 40kHz ultrasonic echo distance calculation",
+        "Frequency-modulated acoustic alerting based on obstacle proximity",
+        "Lightweight ergonomic chassis with low-power battery draw",
+        "Hands-on sensor calibration and micro-soldering design"
+      ]
+    },
+    {
+      "id": "personal-portfolio-3d",
+      "title": "3D AI Universe Portfolio",
+      "category": "Web Development",
+      "status": "Completed / Live",
+      "shortDescription": "An immersive 3D personal portfolio website demonstrating development skills and technical interests.",
+      "detailedDescription": "A bespoke digital experience built to showcase my technical journey, coding profiles, hackathon participations, and academic milestones. Engineered with Three.js WebGL shaders, spatial lighting, real-time GitHub integration, interactive developer terminal, server-side Gemini AI assistant, and a private authenticated admin management system.",
+      "technologies": ["React", "TypeScript", "Three.js", "Tailwind CSS", "Express", "Gemini AI"],
+      "githubUrl": "https://github.com/Adithyan49",
+      "liveDemoUrl": "",
+      "completionDate": "2026",
+      "featured": true,
+      "icon": "Orbit",
+      "highlights": [
+        "Interactive 3D celestial cosmos and procedurally modeled tech artifacts",
+        "Real-time GitHub activity aggregation and coding platform links",
+        "Server-side AI assistant grounded in verified portfolio knowledge",
+        "Full admin dashboard with secure content management"
+      ]
+    }
+  ],
+  "learning": {
+    "topics": [
+      {
+        "id": "learn_1",
+        "title": "Object-Oriented Programming with C++",
+        "status": "Completed",
+        "issuer": "Academic Curriculum",
+        "completionDate": "Nov 2025",
+        "description": "Classes, encapsulation, operator overloading, inheritance, polymorphism, and basic memory management.",
+        "skills": ["C++", "OOP Principles", "Memory Management"]
+      },
+      {
+        "id": "learn_2",
+        "title": "Python for Data Analysis & Computational Problem Solving",
+        "status": "Ongoing",
+        "issuer": "Self-Paced / University Labs",
+        "completionDate": "Expected 2026",
+        "description": "Advanced collections, list comprehensions, NumPy arrays, Pandas dataframes, and algorithmic problem sets.",
+        "skills": ["Python", "NumPy", "Data Wrangling"]
+      },
+      {
+        "id": "learn_3",
+        "title": "Data Structures & Algorithm Fundamentals",
+        "status": "Ongoing",
+        "issuer": "Sri Eshwar College of Engineering & LeetCode",
+        "completionDate": "In Progress",
+        "description": "Arrays, linked lists, stacks, queues, recursion, sorting algorithms, and time/space complexity analysis.",
+        "skills": ["Data Structures", "Algorithm Design", "Big-O Notation"]
+      },
+      {
+        "id": "learn_4",
+        "title": "Introduction to Machine Learning & Neural Networks",
+        "status": "Ongoing",
+        "issuer": "Coursera / DeepLearning.AI Explorations",
+        "completionDate": "In Progress",
+        "description": "Foundations of supervised learning, linear regression, gradient descent, cost functions, and binary classification.",
+        "skills": ["Machine Learning", "Linear Algebra", "Calculus"]
+      }
+    ],
+    "milestones": [
+      {
+        "year": "2025",
+        "title": "Enrolled in B.Tech AI & Data Science",
+        "description": "Commenced undergraduate studies at Sri Eshwar College of Engineering, Pollachi/Coimbatore."
+      },
+      {
+        "year": "2025",
+        "title": "Built First Hardware Prototype",
+        "description": "Designed and tested the Arduino Smart Blind Stick assistive prototype with sensor feedback."
+      },
+      {
+        "year": "2026",
+        "title": "Stepped into Hackathons",
+        "description": "Participated in AI Agent Hackathon 2026 & Fund My Crazy 2.0 to solve real-world problems under time constraints."
+      },
+      {
+        "year": "2026",
+        "title": "Launched 3D Cyber Portfolio & AI Assistant",
+        "description": "Engineered full-stack interactive portfolio connecting GitHub, coding statistics, and Three.js cosmos."
+      }
+    ]
+  },
+  "hackathons": [
+    {
+      "id": "hackathon-1",
+      "name": "AI Agent Hackathon 2026",
+      "role": "Team Developer / Problem Explorer",
+      "teamMembers": "College Peer Team",
+      "date": "2026",
+      "result": "Participant & Prototype Submission",
+      "technologies": ["Python", "AI Agent Concepts", "Prompt Architecture", "API Integration"],
+      "description": "Collaborated with team members to ideate and build an autonomous agent prototype addressing modern task orchestration. Gained practical experience in real-time collaboration, rapid API integration, and pitching ideas to technical mentors.",
+      "learnings": "Deepened understanding of agentic workflows, prompt chaining, and asynchronous communication patterns under strict deadlines."
+    },
+    {
+      "id": "hackathon-2",
+      "name": "Fund My Crazy 2.0",
+      "role": "Innovation Pitch & Tech Lead",
+      "teamMembers": "Interdisciplinary Student Squad",
+      "date": "2026",
+      "result": "Participated & Final Pitch Round Presentation",
+      "technologies": ["Ideation", "Hardware & Software Integration", "Product Roadmapping"],
+      "description": "Presented an innovative tech solution aimed at societal impact. Worked on the technical viability assessment, rapid deck formulation, and demonstration of feasibility.",
+      "learnings": "Sharpened public technical communication, problem-solution market alignment, and rapid feedback iteration."
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cert-1",
+      "title": "C++ Programming Foundations",
+      "organization": "Sri Eshwar College of Engineering",
+      "date": "2025",
+      "description": "Foundational programming paradigms, algorithm logic, and structured problem solving in C++.",
+      "fileUrl": "",
+      "credentialUrl": ""
+    },
+    {
+      "id": "cert-2",
+      "title": "Participation: AI Agent Hackathon 2026",
+      "organization": "AI Agent Hackathon Organization",
+      "date": "2026",
+      "description": "Certificate of participation for completing project deliverables in AI agent development.",
+      "fileUrl": "",
+      "credentialUrl": ""
+    },
+    {
+      "id": "cert-3",
+      "title": "Participation: Fund My Crazy 2.0",
+      "organization": "Entrepreneurship & Innovation Cell",
+      "date": "2026",
+      "description": "Recognizing active participation and prototype presentation in innovation challenge.",
+      "fileUrl": "",
+      "credentialUrl": ""
+    }
+  ],
+  "codingStats": {
+    "lastSynced": "2026-11-05T05:30:00Z",
+    "github": {
+      "username": "Adithyan49",
+      "profileUrl": "https://github.com/Adithyan49",
+      "publicRepos": 4,
+      "followers": 2,
+      "following": 4,
+      "publicGists": 0,
+      "status": "connected"
+    },
+    "leetcode": {
+      "username": "adithyan_adhi",
+      "profileUrl": "https://leetcode.com/u/adithyan_adhi/",
+      "solvedTotal": 42,
+      "easy": 28,
+      "medium": 13,
+      "hard": 1,
+      "status": "profile_linked"
+    },
+    "codechef": {
+      "username": "plush_plume_54",
+      "profileUrl": "https://www.codechef.com/users/plush_plume_54",
+      "rating": "Div 4 (Active Problem Solver)",
+      "status": "profile_linked"
+    },
+    "hackerrank": {
+      "username": "adithyan_r2026a1",
+      "profileUrl": "https://www.hackerrank.com/profile/adithyan_r2026a1",
+      "badges": ["Problem Solving (C++)", "Python"],
+      "status": "profile_linked"
+    },
+    "unstop": {
+      "username": "adithyan70944",
+      "profileUrl": "https://unstop.com/u/adithyan70944",
+      "status": "profile_linked"
+    },
+    "kaggle": {
+      "username": "adithyanraids",
+      "profileUrl": "https://www.kaggle.com/adithyanraids",
+      "status": "profile_linked"
+    },
+    "geeksforgeeks": {
+      "username": "adithyanr2pr2",
+      "profileUrl": "https://www.geeksforgeeks.org/profile/adithyanr2pr2",
+      "status": "profile_linked"
+    }
+  },
+  "settings": {
+    "visualTheme": "cyber-midnight",
+    "particlesDensity": "high",
+    "show3DBackground": true,
+    "interactiveCursor": true,
+    "soundEffects": false
+  }
+}

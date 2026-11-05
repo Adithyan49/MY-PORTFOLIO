@@ -1,0 +1,20 @@
+[
+  {
+    "id": "msg_1793890332136_383422",
+    "name": "Test User",
+    "email": "test@example.com",
+    "subject": "Test Inquiry",
+    "message": "Hello Adithyan, testing Supabase integration!",
+    "createdAt": "2026-11-05T14:52:12.136Z",
+    "read": false
+  },
+  {
+    "id": "msg_welcome",
+    "name": "Adithyan Portfolio System",
+    "email": "system@adithyan.dev",
+    "subject": "System Initialization & Welcoming Visitors",
+    "message": "Welcome to your personal portfolio and admin portal. All messages sent by recruiters, collaborators, and visitors through the contact form will appear here with timestamps.",
+    "createdAt": "2026-11-05T05:00:00.000Z",
+    "read": false
+  }
+]

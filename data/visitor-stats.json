@@ -1,0 +1,27 @@
+{
+  "totalVisits": 143,
+  "uniqueVisitors": 89,
+  "lastVisit": "2026-11-05T13:50:56.543Z",
+  "recentSessions": [
+    {
+      "timestamp": "2026-11-05T13:50:56.543Z",
+      "device": "Desktop / curl/7.88.1",
+      "page": "/"
+    },
+    {
+      "timestamp": "2026-11-05T05:35:00.000Z",
+      "device": "Desktop / Linux",
+      "page": "/"
+    },
+    {
+      "timestamp": "2026-11-05T05:20:00.000Z",
+      "device": "Mobile / Chrome",
+      "page": "/#projects"
+    },
+    {
+      "timestamp": "2026-11-05T04:45:00.000Z",
+      "device": "Desktop / Mac",
+      "page": "/#terminal"
+    }
+  ]
+}
